@@ -1,0 +1,204 @@
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\BookApp.exe
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\BookApp.deps.json
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\BookApp.runtimeconfig.json
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\BookApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\BookApp.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\BookApp.pdb
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\my practice\BookApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.AssemblyInfo.cs
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\scopedcss\bundle\BookApp.styles.css
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\staticwebassets\BookApp.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\staticwebassets\BookApp.StaticWebAssets.Pack.cache
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\staticwebassets\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\staticwebassets\msbuild.build.BookApp.props
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.BookApp.props
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.BookApp.props
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.csproj.CopyComplete
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.dll
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\refint\BookApp.dll
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.pdb
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\BookApp.genruntimeconfig.cache
+C:\Users\user\Desktop\my practice\BookApp\obj\Debug\net5.0\ref\BookApp.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\appsettings.json
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\BookApp.exe
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\BookApp.deps.json
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\BookApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\BookApp.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\BookApp.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\BookApp.pdb
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\scopedcss\bundle\BookApp.styles.css
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\staticwebassets\BookApp.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\staticwebassets\BookApp.StaticWebAssets.Pack.cache
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\staticwebassets\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\staticwebassets\msbuild.build.BookApp.props
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.BookApp.props
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.BookApp.props
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\refint\BookApp.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.pdb
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\BookApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\obj\Debug\net5.0\ref\BookApp.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\OneDrive\Desktop\My_Task Repo\My_Task\BookApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\BookApp.exe
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\BookApp.deps.json
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\BookApp.runtimeconfig.json
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\BookApp.runtimeconfig.dev.json
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\BookApp.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\BookApp.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.AssemblyInfo.cs
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\staticwebassets\BookApp.StaticWebAssets.Manifest.cache
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\scopedcss\bundle\BookApp.styles.css
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.RazorTargetAssemblyInfo.cache
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.csproj.CopyComplete
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\ref\BookApp.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.pdb
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.genruntimeconfig.cache
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\BookApp.csproj.AssemblyReference.cache
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\bin\Debug\net5.0\ref\BookApp.dll
+C:\Users\Harmony Tess Chizoba\Desktop\BookApp\obj\Debug\net5.0\staticwebassets\BookApp.StaticWebAssets.xml
